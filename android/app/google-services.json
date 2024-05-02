@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213930037996",
+    "project_id": "clinic-e0e4d",
+    "storage_bucket": "clinic-e0e4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213930037996:android:781b913c9ceec79e970bc9",
+        "android_client_info": {
+          "package_name": "com.example.doctor_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQS2FD5uHSAidUQua0EyJ43ET2yW1iw-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
